@@ -1,0 +1,20 @@
+{
+  "name": "code-review-report",
+  "displayName": "代码审查报告",
+  "version": "0.3.0",
+  "description": "审查空指针、逻辑错误、缺陷、隐患、漏洞、效率问题和自定义代码规范，并生成 Markdown 报告。Reviews bugs, risks, security, efficiency, and project coding standards.",
+  "author": {
+    "name": "Mr.Fire"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "code-review",
+    "security",
+    "performance",
+    "report",
+    "vulnerability",
+    "bug",
+    "standards"
+  ],
+  "logo": "assets/logo.svg"
+}

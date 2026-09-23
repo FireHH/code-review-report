@@ -1,0 +1,16 @@
+{
+  "name": "code-review-report",
+  "owner": {
+    "name": "Code Review Report"
+  },
+  "metadata": {
+    "description": "审查缺陷、隐患、漏洞、效率问题和自定义代码规范，并生成 Markdown 报告"
+  },
+  "plugins": [
+    {
+      "name": "code-review-report",
+      "source": "./",
+      "description": "审查空指针、逻辑错误、缺陷、隐患、漏洞、效率问题和项目代码规范，并生成审查报告"
+    }
+  ]
+}
